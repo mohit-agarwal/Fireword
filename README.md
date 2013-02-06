@@ -4,7 +4,7 @@ This is an app which enables the users to play scrabble with their peers on LAN.
 
 ------------------------------------------------------------------------
 
-This app has been built using Node.js for realtime playing and HTML5 for the layout.Right now I have used a text with about 10 lakh words to serve as dictionary for the scrabble, but later on I will integrate it with the cloud.
+This app has been built using Node.js for realtime playing and HTML5 for the layout.Right now I have used a text file with about 10 lakh words to serve as dictionary for the scrabble, but later on I will integrate it with the cloud.
 
 ------------------------------------------------------------------------
 
