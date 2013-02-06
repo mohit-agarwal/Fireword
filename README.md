@@ -17,13 +17,18 @@ How to Play?
 How to run?
 
 1.Unzip the zip file.
+
 2.There is one node_modules folder which is needed to run the server.
+
 3.Go to res/index.html and replace the IP address(line 496) with the IP address of the machine on which you want to host the game.Currently,it is hosted on localhost,so you can test it on your own machine.
+
 4.Now go to terminal,and type the following command:
 	node app1.js
 	(you should be in Firefox folder)
+
 5.Now go to browser and enter the ip on which the game is hosted.
 	your ip:8082
 Currently it is http://localhost:8082
+
 6.Now enjoy the game!
 
